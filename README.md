@@ -42,7 +42,7 @@ Attempts to join datasets based on geospatial hashing were unsuccessful due to t
 ## Code and Error Documentation
 All attempts, including code, error logs, and outputs, are well-documented in the accompanying IPython notebook. This documentation provides a comprehensive view of the tasks attempted, the approaches taken, and the errors encountered.
 
-![Error Screenshot]('/figure1.png')  
+![figure 1]('figure1.png')  
 *Figure 1: Example of error encountered during data processing.*
 
 ## Recommendations for Moving Forward
